@@ -12,5 +12,6 @@ pythonのコードを書くときの雛形。
 ## リポジトリのコピー
 `git clone git@github.com:yoshihiro1909/python_template.git`
 
-## .gitの消去 
+## .git関連ファイルの消去 
 `rm -rf .git`
+`rm -rf .gitignore`
