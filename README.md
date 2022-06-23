@@ -14,4 +14,4 @@ pythonのコードを書くときの雛形。
 
 ## .git関連ファイルの消去 
 `rm -rf .git`
-`rm -rf .gitignore`
+`rm .gitignore`
